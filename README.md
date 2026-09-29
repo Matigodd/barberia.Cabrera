@@ -2,7 +2,9 @@
 integrantes 
 Matias Choque
 Matias Martinez
-Dieter Kollros
+Dieter Kollros. 
+
+
 Primer prototipo del proyecto (React + Vite), hecho con vibe-coding.
 
 ## Funcionalidades
